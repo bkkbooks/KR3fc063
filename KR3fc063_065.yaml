@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/65
+seq: 65
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:a5eccb2d83ac31e564b451dd640345aaf3db29f8145c87604ed3df3ad5cc337e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 作日晷六法第一法斜立向正南之日晷此晷作于平面用時支之使向南斜立其斜度視各方北極高下之度隨處可以通用先定時刻法曰作橫線如坎離次于坎離橫線中任定一點為表位如兌兌作小孔以植表也次任取長數長約晷體九之一務直毋曲細長如針鋭其兩端為表如威恆表植于表位況兑其一端入兑之孔務直毋稍偏倚而表長如咸兑次以咸兑表度置尺十二限處為底定尺勿令移動而取尺第一限至二十二限之各底以次移于坎離線兑點之左右左右自兑起以次蟬聯而至于坎離各作點識
+  hash: sha256:73cf397c9f9c0d4dbe88e2db3be66f69e1aa35672b9196b494c562434c35ab8d
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:8d2dd8947ae008c2d2311ae6bd2c57f9921d59a8f09d611a6a2bbe3cca1f9ffd

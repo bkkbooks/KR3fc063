@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 福建二十六度六十四度廣西二十五度六十五度貴州二十四度天問略作草四度半六十六度廣東二十三度天問略作草三度半六十七度雲南二十二度天問略作草四度六十八度
+  hash: sha256:30ab05ef4b1a04ab6609ad816e992306cf4f379f17638f0b291d8b07d49e70e4
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:a945d97b3d74560e6e25d7b236fd134e75953b56e898f716f6b3e2d1d60227cc

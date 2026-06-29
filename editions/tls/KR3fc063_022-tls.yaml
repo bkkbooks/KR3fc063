@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之爲十五則一分爲半度二分爲一度矣第六限旣爲二十二度半則限下第一分卽二十三度而其第二分爲二十三度半無疑也次于角氐線上量取各限以次移于兩尺相並處作點識之旁書字爲記兩尺必等
+  hash: sha256:a1805406d1cd9cae4196a73750674a20672f2f90f094328afe8c74b96fdb153d
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:bf08fb0bc6ad553d30dd79482395ce75d35bfe0f74c7f51a273e877625822f06

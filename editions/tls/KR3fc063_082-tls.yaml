@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/82
+seq: 82
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃作表表長短無定度銳其兩端以晷心小孔爲表位乃植表表穴孔而出于彼面令上下二面各得表之半晷牀用薄片作象限弧二必等弧半徑與晷體丙甲丁乙同等其作線作孔俱如第一法兩弧心氐盡處亦各横穿小圜孔俱如前法次用平版視晷體差大以兩弧氐斗就版斗南氐北植立版兩端兩弧東西正對毋稍敧側其一以膠或釘固之其一安晷後乃固之版近南安
+  hash: sha256:bfcf19bb3f61ccbca906b04b4241b7590a17abd46946671969358a508ba3b5fb
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:9927d87027d59a857849565eed85a3e3fab9dbb8ce2a33dac954d1004ec52668

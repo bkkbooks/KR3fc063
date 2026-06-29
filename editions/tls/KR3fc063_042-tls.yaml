@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 底以次皆自本線之心起向南亦向北加之作點識之悉同上兌井夬線求各節氣法正午左右各時刻線均定節氣訖乃于各線點識處各作横線聯之次于各横線兩端盡處將各節氣以次書之如右圖士琳案此段原稿在圖前今移于圖後故于圖上增一右字晷體横寬北甲乙南丙丁西丙甲東丁乙廣狹長短無定度取足畫線書字而已丙丁盡處各餘少許爲横軸以入晷牀兩弧心氐小孔也問尺十二限卽切線之四十五度也今分之爲六
+  hash: sha256:7fcc35070aa509efe0491b7d3d1f9d01662e3275ee4b55f368feb3bfc1e88879
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:344c328b95ecd2bd52f658e78d6d8c902af63325ca345188b0c94eac81f03d3b

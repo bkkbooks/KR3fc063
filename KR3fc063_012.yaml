@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尺上分線西法用割線查割線表各度之數作點識于兩尺間名之曰表心線得數難清取度不真不便于用兹作此線與切線同理而變其數取度較真即名之曰日晷線法曰作直線如斗牛次作橫線如斗女與斗牛線相遇于斗斗角為正方角必中矩合九十度毋毫髮出入或鈍或鋭次以斗為心以斗牛或斗女為界取規以一端指斗其一端指牛或女作弧形得圓周四之一成象限弧次三分其弧作點于弧識之次于每一分內又八分之得二十四平分作點于弧識之
+  hash: sha256:0759a3313c1014ac5c0f9935bceb99b53847d5c9723a306f052ad41234e90362
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:e49a18b692af9a78d59db318b0aefdc05e0035f8d5751559f1590be878497ae2

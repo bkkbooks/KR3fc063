@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第五法立面向正南之日晷並同第四法但所定艮兌之距于本方北極餘度之底取之所定艮巽之度于本方北極高度之底取之蓋以北極高度定晷心以北極餘度定表位爲稍異耳又其時刻逆旋與第四法相反也
+  hash: sha256:44d9dcaa6b6aff3e51ddc7abf8c4f0beb6152c43dec437cf5cf420a81bb539fd
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:9b76e5eb2c25fe551a92a15a0b282d04010421c51a3532f9ad24218097411a61

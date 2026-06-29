@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第二法斜立向正東之日晷此晷亦作于平面用時視本方赤道之高下斟酌斜支隨處可以通用法曰作直線卽赤道也如乾坤以乾爲表位乾作小孔以植表也次任取長數爲表植之于表位乾之孔務直勿使偏倚而表長如咸乾次以咸乾表度置尺十二限爲底定尺而取尺第一限至二十二限之各底移于乾坤線上自乾點起以次蟬聯順下而各作點識之第一點乾卽卯正初刻也次卯正一刻次卯正二刻次卯正三刻自是而下四點爲辰初之四刻次四點爲辰正之四刻次四點
+  hash: sha256:85d3a96d7b4888779b83458077d9e445a3cce502401e7948150a15cc0aa440ca
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:d24efc825ed12b4b95b94f2792be5ab73a33f5fcce81f52a7a7a961c610dedcc

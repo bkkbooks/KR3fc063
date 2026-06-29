@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 山東三十七度五十三度陜西三十六度五十四度河南三十五度五十五度江南三十二度五十八度湖北三十一度五十九度浙江三十度六十度江西二十九度六十一度四川二十九度天問略作廿九度半六十一度
+  hash: sha256:55b49b7945d954069f7a273e99a59404963a8915c17a84eb39449cd8a50ed778
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:ee502934f185ded791c513616c6bfbf34bcf09657e3213310a3fdbd45f81f023

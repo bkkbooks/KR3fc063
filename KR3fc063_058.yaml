@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 極考乃數晷牀弧度自南之斗數起至本方赤道高度將晷體上下斜轉之令晷體乾坤線恰當本度兩界線之中乃於乾坤線上作小孔洞之令與本度之孔準對以樞貫之則乾坤線如本方赤道而成正東日晷矣
+  hash: sha256:b99bdac08759fba85958b4d4ae90d65953017739e446d4260aeb9d935f7d7ca1
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:9e92c447d073f80648aec03a708cdf1496db7a7a2f554130f72566bd5480848e

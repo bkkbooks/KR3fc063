@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 晷牀用薄片作象限弧二必等弧半徑度與晷體丙丁度等亦同丁乙弧平分九十度度皆從弧心氐斜出直線聯之皆作孔洞之孔當各度兩界線之中與弧線平行密排如齒如圖次用平版廣狹長短視晷體差豐亦橫置之以兩弧斗氐就版氐南斗北植立版之兩端兩弧東西正對勿稍敧側其一以膠或釘固之其一安晷後乃固之版近北安指南車一具如角士琳案弧版與晷牀平行故原圖易作鈍角
+  hash: sha256:294a77f78e95240ad57199058ae1ef1ccbfa6cf78cc658e06d6f27f18b624682
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:b9cd280d9c426dddbc6e494e15965b46037698acf55dd589878a2c323d8a6503

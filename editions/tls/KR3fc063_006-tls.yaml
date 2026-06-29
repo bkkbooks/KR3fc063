@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尺式西人謂之比例規規之云者兩尺張翕任意似畫圓之器也此乃質言尺作尺法用薄銅版或堅木作兩長尺扁方任長一尺上下廣約五分取足作線作點書字而已兩尺相並等長等廣無毫髮差然兩尺相並則無由相聯也乃于兩尺之一端近隅處多留餘地以隅爲心圓之其一圓頭與尺面平而空其中令空處之圓與尺面之圓相等如乾其一如坤則剡其圓頭上下二面俱剡令二面剡去之圓與乾尺中空之圓相等以相入密無罅也乃于尺
+  hash: sha256:11888287d11219d82e0f29b92341699b122a73d1e651c85110cae996fcef9bf5
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:1f50e945aa48865a4851276becb8f53403455ddaafdff3d474f8dcfd3e8ba8bc

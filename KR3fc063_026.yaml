@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之每一點為一刻即得午前午後各刻如圖若晷體窄小則近午難容密點法並取二限為一點則每點為二刻或併取四限為一點則每點為半時然自巳未正而右左為限漸寬仍析取每限為是問其義云何曰坎離線即赤道也每年春秋分兩
+  hash: sha256:406bc6808d8cf664681ed6a1d438d9bb505fbe6d10a26c0c567aa70b6135d453
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:23c4611656b9613a0c76745c85f48ed27f34905d4deb07cfa2fb760936efaf95

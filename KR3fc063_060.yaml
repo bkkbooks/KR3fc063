@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第三法斜立向正西之日晷說同前此晷作法同第二法但面向正西故其時刻次序皆逆行自下而上第一點乾即酉初三刻交正也次酉初二刻次酉初一刻次酉初初刻自是而下為申正為申初為未正為未初為午末又其節氣惟中一線春分秋分同第二法餘俱與第二法相反如彼為冬至此為夏至彼為芒種小暑此為大雪小寒之類至晷牀用法俱同第二法但彼向正東故晷體安于弧之東面此向正西故晷體安于弧之西面耳圖同第二法
+  hash: sha256:b3cdf933f5764603f6bf787a06601981a7d89fc317bdd3834e378f7b154852dc
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:ff64e5ea0e1e4972204e960cd610d9808f67a4f198ffe4c24fd1332b600c5f1f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 規式用銅或鐵爲之銳其兩端欲其細也兩股交處貫以樞欲其固也規爲畫圓之器尺筭藉之以取諸數故並圖其式如右
+  hash: sha256:085daf00fdcf948609e9421a9093732b923f5c8cbb9c118ada6ed2572357be4f
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:08aa4f04100b1a800db4177bcff5e54bcaf22d502e5afb5508e2e422770d5f30

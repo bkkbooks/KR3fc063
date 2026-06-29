@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第四法平臥向正北之日晷此晷視本方北極之高下定表之長短與表位及晷心之遠近惟本方鄰近南北二百五十里東西四百里以內可用餘不能通用法曰作直線如乾坤乾南坤北次于乾坤直線中任定一點為表位如艮艮作小孔以植表也次作表或銅或鐵務直毋曲細長如針鋭其兩端任長一寸或數寸植立于表位艮其一端入艮之孔務直毋稍偏倚表長如咸艮次以咸艮表度置尺十二限處為底定尺而取兩尺間本方北極出地高度如浙江北極高三十度在尺第四限之類若其度為尺各
+  hash: sha256:b72f1347a99bdbf00ce3e062a30e91213cf15ad0ff28a43bfc84a3f7fa1e065b
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:22507fdb5897691f2b8c551ae1e3074321f9eaa9ae0882d3b89a276400736a34

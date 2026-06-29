@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc063/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 隅圓頭之中心作小孔洞之而貫以樞聯兩尺爲一樞欲其無偏也兩尺並欲其無罅也樞心爲心與兩尺相並之縫欲其中繩也
+  hash: sha256:35a461cd5dba041ce1a2706dd6355157c87b27402d5d0aa4cfc792a99f8f014f
+metadata:
+  title: 尺算日晷新義
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc063.xml
+hash: sha256:e253e5b18a6868487842e00d9a2747573b4e700cf1d35dc3f78746bab529ac69
