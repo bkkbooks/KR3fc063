@@ -22,8 +22,7 @@ markers:
   - {type: 'tls:seg-start', offset: 74, content: '', id: KR3fc063_tls_001-p36.s8.2, seg_type: comm, member_ids: [KR3fc063_tls_001-p36.s8.2]}
   - {type: 'tls:seg', offset: 74, content: '', id: KR3fc063_tls_001-p36.s8.2}
   - {type: line-break, offset: 78, content: '', id: KR3fc063_tls_074-bkklb1}
-  - {type: substitution, offset: 78, original: 廿, replacement: 草, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3861}}
   - {type: 'tls:seg-end', offset: 82, content: '', id: KR3fc063_tls_001-p36.s8.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 82, content: '', id: KR3fc063_tls_001-p36.s8.3}
   back: []
-hash: sha256:e52d4a06daff8ab17c2cdc2f928026bda9b3f58d39dd4a4e45b2298a603c630d
+hash: sha256:588f1e33eefc02293afc9c98d3bcd404f50173c7d36f91e971edfb682d8615a1

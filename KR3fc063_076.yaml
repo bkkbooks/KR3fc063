@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 福建二十六度六十四度廣西二十五度六十五度貴州二十四度天問略作草四度半六十六度廣東二十三度天問略作草三度半六十七度雲南二十二度天問略作草四度六十八度
-  hash: sha256:30ab05ef4b1a04ab6609ad816e992306cf4f379f17638f0b291d8b07d49e70e4
+  text: 福建二十六度六十四度廣西二十五度六十五度貴州二十四度天問略作廿四度半六十六度廣東二十三度天問略作廿三度半六十七度雲南二十二度天問略作廿四度六十八度
+  hash: sha256:e60c1df2038ed61f7b7235ab469c3961f8f98fa8c4d732ace52e0698b66d59b2
 metadata:
   title: 尺算日晷新義
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc063.xml
-hash: sha256:a945d97b3d74560e6e25d7b236fd134e75953b56e898f716f6b3e2d1d60227cc
+hash: sha256:6350cd31a44383ba26cf0bfb454a789921310e5b5f59df21e426c48d5bdf12e0
