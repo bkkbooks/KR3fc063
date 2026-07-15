@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 之爲十五則一分爲半度二分爲一度矣第六限旣爲二十二度半則限下第一分卽二十三度而其第二分爲二十三度半無疑也次于角氐線上量取各限以次移于兩尺相並處作點識之旁書字爲記兩尺必等
-  hash: sha256:a1805406d1cd9cae4196a73750674a20672f2f90f094328afe8c74b96fdb153d
+  text: 之為十五則一分為半度二分為一度矣第六限既為二十二度半則限下第一分即二十三度而其第二分為二十三度半無疑也次于角氐線上量取各限以次移于兩尺相並處作點識之旁書字為記兩尺必等
+  hash: sha256:b3b984c8535cbfae60d621f49fdfa32a3f730c79c91deca1797fd49c3d37e071
 metadata:
   title: 尺算日晷新義
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc063.xml
-hash: sha256:bf08fb0bc6ad553d30dd79482395ce75d35bfe0f74c7f51a273e877625822f06
+hash: sha256:c42740f2c6c46ad6a4ccafd80f342ecb39209c86e1cdb84b8a9af76526ff646a

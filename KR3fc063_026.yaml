@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 之每一點爲一刻卽得午前午後各刻如圖若晷體窄小則近午難容密點法並取二限爲一點則每點爲二刻或併取四限爲一點則每點爲半時然自巳未正而右左爲限漸寬仍析取每限爲是問其義云何曰坎離線卽赤道也每年春秋分兩
-  hash: sha256:ca4bac410be8945e30a61befe63fd9d088f6c129a0710287ad14e7369a9a6ea1
+  text: 之每一點為一刻即得午前午後各刻如圖若晷體窄小則近午難容密點法並取二限為一點則每點為二刻或併取四限為一點則每點為半時然自巳未正而右左為限漸寬仍析取每限為是問其義云何曰坎離線即赤道也每年春秋分兩
+  hash: sha256:406bc6808d8cf664681ed6a1d438d9bb505fbe6d10a26c0c567aa70b6135d453
 metadata:
   title: 尺算日晷新義
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc063.xml
-hash: sha256:515c3bd974ab133eb13e96937419230d91838fbd673a61aa0b85e1e56c1e4e51
+hash: sha256:23c4611656b9613a0c76745c85f48ed27f34905d4deb07cfa2fb760936efaf95
